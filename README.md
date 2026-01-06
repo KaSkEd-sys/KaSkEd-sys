@@ -21,6 +21,4 @@
 </div>
 
 ---
-
-### 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/kasked-sys/kasked-sys/output/snake.svg" />
