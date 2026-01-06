@@ -6,21 +6,18 @@
 ---
 
 <div align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=kasked-sys&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=kasked-sys&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kasked-sys&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kasked-sys&theme=dracula" />
 </div>
 
 ---
 
-### 🧰 Tech Stack
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/>
+  <img width="24"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48"/>
+  <img width="24"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48"/>
 </div>
 
 ---
